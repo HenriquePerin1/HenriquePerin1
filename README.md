@@ -17,10 +17,7 @@ Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na **Facul
 
 Aqui estão alguns dos meus projetos:
 
-- **[Nome do Projeto 1](link_do_projeto_1)**: Descrição breve do projeto, destacando as tecnologias utilizadas e o que foi aprendido.
-- **[Nome do Projeto 2](link_do_projeto_2)**: Descrição breve do projeto, com foco nos desafios enfrentados e soluções encontradas.
-- **[Nome do Projeto 3](link_do_projeto_3)**: Descrição breve do projeto, ressaltando o impacto ou a funcionalidade principal.
-
+- **[Rede Neural](https://github.com/HenriquePerin1/RedeNeural)**: Projeto de rede neural para classificação de espécies de flores Iris usando TensorFlow e Keras. O modelo é treinado com validação cruzada e utiliza visualizações de acurácia, matriz de confusão e análise dos melhores e piores resultados para avaliar o desempenho..
 ## 🤝 Vamos Colaborar!
 
 Estou sempre aberto a colaborações e novas experiências. Se você tiver um projeto interessante ou ideia em mente, não hesite em me contatar!
